@@ -91,6 +91,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "almond-restaurant:build:production",
+            "firebaseProject": "almond-restaurant",
+            "firebaseHostingSite": "almond-restaurant"
+          }
         }
       }
     }
