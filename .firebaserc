@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "almond-restaurant": {
+      "hosting": {
+        "almond-restaurant": [
+          "almond-restaurant"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "almond-restaurant"
+  }
+}
