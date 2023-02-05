@@ -10,7 +10,7 @@ import { HeaderComponent } from './header/header.component';
 import { MenuComponent } from './menu/menu.component';
 import { AboutComponent } from './about/about.component';
 import { ReservationsComponent } from './reservations/reservations.component';
-import { LocationsComponent } from './locations/locations.component';
+
 import { SecondPageComponent } from './second-page/second-page.component';
 import { CheckoutComponent } from './checkout/checkout.component';
 
@@ -24,7 +24,7 @@ import { CheckoutComponent } from './checkout/checkout.component';
     LandingComponent,
     HeaderComponent,
     ReservationsComponent,
-    LocationsComponent,
+
     SecondPageComponent, 
     CheckoutComponent
   ],
