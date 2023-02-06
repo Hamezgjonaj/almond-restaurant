@@ -1,7 +1,7 @@
 # AlmondRestaurant
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
-this project is in production deploy with firebase https://almond-restaurant.web.app/
+=====>this project is in production deploy with firebase https://almond-restaurant.web.app/ <=====
 
 ## Development server
 
